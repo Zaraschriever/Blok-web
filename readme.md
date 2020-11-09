@@ -71,14 +71,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** -kies uit zwart, rood óf blauw-
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** responsive
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** https://dopper.com/nl/?gclid=Cj0KCQiA7qP9BRCLARIsABDaZzgsYjcggtss2kPcDnxgi5kVBrEcUS-mUHVJZ_yuWH-Fl3pSmqQTqbMaAlzYEALw_wcB
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepagina.jpeg" width="375px" alt="homepagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/tweedepagina.jpeg" width="375px" alt="bestelpagina">
