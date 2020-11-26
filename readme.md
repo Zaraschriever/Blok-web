@@ -42,7 +42,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="/images/eersteversie.png width="375px" alt="ontwerppagina">
+
 
 ### Agenda voor meeting
 
