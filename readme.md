@@ -39,6 +39,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 De HTML pagina schrijven ging erg goed, de css toepassen ging voor een groot deel goed maar met sommigen onderdelen had ik wel wat moeite.
+
 **Screenshot(s):**
 
 <img src="/images/eersteversie.png" width="375px" alt="homepagina">
