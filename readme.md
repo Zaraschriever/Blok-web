@@ -49,10 +49,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| Lotte          | Nora               | Tamar        | Zara        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Hamburgermenu  | Flexbox            | Navigatiebalk     | Automatische image slider met hover   |
+| Image slider | dit als er tijd is | nog een punt | Filmpje on repeat af laten spelen |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
