@@ -52,7 +52,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 | Lotte          | Nora               | Tamar        | Zara        |
 | ---            | ---                | ---          | ---              |
 | Hamburgermenu  | Flexbox            | Navigatiebalk     | Automatische image slider met hover   |
-| Image slider | dit als er tijd is | nog een punt | Filmpje on repeat af laten spelen |
+| Image slider | ... | ... | Filmpje on repeat af laten spelen |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
