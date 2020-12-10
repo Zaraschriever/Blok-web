@@ -30,7 +30,27 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+Het responsive maken van mijn website vind ik wel erg lastig, hierdoor verschoof alles weer en dit krijg ik nog steeds niet helemaal goed. Een aantal dingen zijn wel goed gelukt met flexbox dus daar was ik wel blij mee. Ik heb een begin gemaakt aan de tweede pagina, maar ik liep daar vast omdat die de css van de eerste pagina overneemt.
+
+**Screenshot(s):**
+
+<img src="/images/eersteversie.png" width="375px" alt="homepagina">
+
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+| Lotte          | Nora               | Tamar        | Zara        |
+| ---            | ---                | ---          | ---              |
+| Margin op pagina |Classes voor div's stylen          | Animatie navigatiebalk     | Stylen van de tweede pagina  |
+| Knoppen positioneren | Aantal tekstblokken | Positioneren van tekst en knoppen |Flexbox |
+| ...            | ...                | ...          | ...              |
+
+### Verslag van meeting
+
+-na afloop snel uitkomsten vastleggen-
 
 
 
