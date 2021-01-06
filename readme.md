@@ -33,7 +33,6 @@ In de vakantie heb ik hard door gewerkt en zijn heel veel dingen gelukt, helaas 
 
 **Screenshot(s):**
 
-<img src="/images/laasteversie1.png" width="375px" alt="homepagina">
 <img src="/images/laatsteversie2.png" width="375px" alt="homepagina">
 <img src="/images/laatsteversie3.png" width="375px" alt="homepagina">
 <img src="/images/laatsteversie4.png" width="375px" alt="homepagina">
