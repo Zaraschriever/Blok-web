@@ -16,6 +16,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 8. https://stackoverflow.com/questions/35192615/decreasing-opacity-of-other-menus-on-mouseover-of-one-menu
 9. https://www.youtube.com/watch?v=xgeFLtwulow
 10. Icons made by <a href="https://www.flaticon.com/free-icon/down-arrow_2223613?related_item_id=2223667&term=down%20arrow" title="bqlqn">bqlqn</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+11. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+12. https://css-tricks.com/snippets/css/complete-guide-grid/
+13. https://www.w3schools.com/tags/tag_textarea.asp
+14. https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_textarea
+15. https://codepen.io/Zaraschriever/pen/zYKjmMo
+16. https://imgflip.com/gif-maker
+17. https://dev.to/ljnce/change-your-header-color-when-scroll-your-page-8a8
 
 
 
@@ -26,7 +33,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<img src="/images/laatsteversie1.png" width="375px" alt="homepagina">
+<img src="/images/laatsteversie2.png" width="375px" alt="homepagina">
+<img src="/images/laatsteversie3.png" width="375px" alt="homepagina">
+<img src="/images/laatsteversie4.png" width="375px" alt="homepagina">
+<img src="/images/laatsteversie5.png" width="375px" alt="homepagina">
+<img src="/images/laatsteversie6.png" width="375px" alt="homepagina">
+<img src="/images/laatsteversie7.png" width="375px" alt="homepagina">
+<img src="/images/laatsteversie8.png" width="375px" alt="homepagina">
+<img src="/images/laatsteversie9.png" width="375px" alt="homepagina">
+
 
 
 
@@ -36,7 +52,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Ik ben nu bezig met een image slider en met andere javascript onderdelen, dit vind ik nog wel erg lastig dus dat is nog niet helemaal gelukt helaas.
 **Screenshot(s):**
 
-<img src="/images/eersteversie.png" width="375px" alt="homepagina">
+<img src="/images/derdeversie1.png" width="375px" alt="homepagina">
 
 
 ### Agenda voor meeting
