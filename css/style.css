@@ -116,6 +116,7 @@ input:hover {
     display: inline-grid;
     grid-column: 3;
   }
+}
 
 button {
   border: none;
@@ -390,7 +391,7 @@ main section:nth-of-type(5) {
   background-color: #97d7db;
   color: white;
   margin-top: 5em;
-  /* overflow: hidden; */
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -578,7 +579,7 @@ main section:nth-of-type(8) {
 
 main section:nth-of-type(8) h2 {
   font-size: 5vw;
-  margin: 2em 0 0.5em 0;
+  width: 60vw;
   text-align: center;
 }
 
@@ -599,13 +600,13 @@ main section:nth-of-type(8) button {
   color: #1A3065;
   padding: 1em;
   margin-top: 1em;
-  margin-bottom: 5em;
+  margin-bottom: 6em;
 }
 
 main section:nth-of-type(8) img {
   width: 100vw;
   height: auto;
-  top: 12em;
+  top: 15em;
 }
 
 /* begin section9 */
@@ -618,6 +619,7 @@ main section:nth-of-type(9) {
 
 main section:nth-of-type(9) h2 {
   font-size: 5vw;
+  width: 70vw;
   font-weight: bold;
   text-align: center;
   margin: 0;
@@ -855,7 +857,6 @@ input[type=submit] {
   margin-top: 2em;
   margin-left: 0;
   list-style-type: disc;
-  list-style-image: url("/images/listitem.png");
 }
 
 #detailpagina main section:nth-of-type(2) ul li {
@@ -863,7 +864,6 @@ input[type=submit] {
   margin: 0.5em 0 0 1em;
   font-size: 0.9em;
   text-decoration: none;
-  list-style-image: url('listitem.png');
 }
 
 #detailpagina main section:nth-of-type(2) img {
