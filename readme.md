@@ -29,11 +29,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+In de vakantie heb ik hard door gewerkt en zijn heel veel dingen gelukt, helaas heb ik aan het einde een beetje tijd stres gehad en dingen die ineens niet meer werken, waardoor niet alles helemaal is gelukt. Wel ben ik heel erg tevreden over mijn resultaat en hoe ik gegroeid ben in coderen. Ik snap nu veel meer en het ging me steeds makkelijker af.
 
 **Screenshot(s):**
 
-<img src="/images/laatsteversie1.png" width="375px" alt="homepagina">
+<img src="/images/laasteversie1.png" width="375px" alt="homepagina">
 <img src="/images/laatsteversie2.png" width="375px" alt="homepagina">
 <img src="/images/laatsteversie3.png" width="375px" alt="homepagina">
 <img src="/images/laatsteversie4.png" width="375px" alt="homepagina">
