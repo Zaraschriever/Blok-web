@@ -1,3 +1,24 @@
+var plus = document.querySelector("section:nth-of-type(2) article h4")
+var dropDown = document.querySelector("section:nth-of-type(2) article ul")
+
+plus.addEventListener("click", open)
+
+function open(){
+    dropDown.style.display = "block"
+}
+
+function open(){
+    if(dropDown.style.display === "none"){
+    dropDown.style.display = "block";
+    }
+    else{
+    dropDown.style.display = "none";
+    }
+}
+
+
+
+
 var showFoto = document.getElementById("hoofdAfbeelding")
 
 var eersteFoto = document.querySelector(".eersteFoto")
@@ -41,6 +62,37 @@ function toggleHamburger(){
   navbar.classList.toggle("showNav")
   ham.classList.toggle("showClose")
 }
+
+
+
+
+$(document).on('scroll', function(){
+    if ( $(window).scrollTop() > 30) {
+        $('#container-header').addClass('change-color');
+    } else {
+        $('#container-header').removeClass('change-color');
+    }
+});
+
+
+
+
+// $(".upper").click(function () {
+//     // Adding a class to the upper list item to handle the icon animation and background change
+//     $(this).toggleClass("collapsed");
+//
+//     var collapsedMenu = this.nextElementSibling;
+//
+//     // If the submenu is already collapsed, hide
+//     if (collapsedMenu.style.maxHeight) {
+//         collapsedMenu.style.maxHeight = null;
+//
+//         // Else, set its max-height to its scroll-height.
+//     } else {
+//         collapsedMenu.style.maxHeight = collapsedMenu.scrollHeight + "px";
+//     }
+// });
+
 
 
 // var hammenu = document.querySelector(".hammenu")
