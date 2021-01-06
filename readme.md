@@ -6,9 +6,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.w3schools.com/howto/howto_css_fixed_footer.asp
+2. https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_fixed_footer
+3. https://www.w3schools.com/howto/howto_css_responsive_text.asp
+4. https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_full_page
+5. http://www.homepage-maken.nl/csscursus/lijst-plaatjes.php
+6. https://www.w3schools.com/tags/tag_strong.asp
+7. https://www.w3schools.com/css/css3_mediaqueries_ex.asp
+8. https://stackoverflow.com/questions/35192615/decreasing-opacity-of-other-menus-on-mouseover-of-one-menu
+9. https://www.youtube.com/watch?v=xgeFLtwulow
+10. Icons made by <a href="https://www.flaticon.com/free-icon/down-arrow_2223613?related_item_id=2223667&term=down%20arrow" title="bqlqn">bqlqn</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
 
 
 
@@ -25,8 +33,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 3 (week 6)
 
 ### Stand van zaken
-Het responsive maken van mijn website vind ik wel erg lastig, hierdoor verschoof alles weer en dit krijg ik nog steeds niet helemaal goed. Een aantal dingen zijn wel goed gelukt met flexbox dus daar was ik wel blij mee. Ik heb een begin gemaakt aan de tweede pagina, maar ik liep daar vast omdat die de css van de eerste pagina overneemt.
-
+Ik ben nu bezig met een image slider en met andere javascript onderdelen, dit vind ik nog wel erg lastig dus dat is nog niet helemaal gelukt helaas.
 **Screenshot(s):**
 
 <img src="/images/eersteversie.png" width="375px" alt="homepagina">
@@ -44,7 +51,7 @@ Het responsive maken van mijn website vind ik wel erg lastig, hierdoor verschoof
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik liep nog een beetje achter voor de laatste meeting, maar door mijn laaste vragen te stellen kan ik wel weer goed vooruit in de vakantie.
 
 
 
@@ -71,7 +78,7 @@ Het responsive maken van mijn website vind ik wel erg lastig, hierdoor verschoof
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik snapte voor de meeting niet hoe je de tweede pagina moest stylen, dit had ik in de meeting gevraagd. Hierna snapte ik het ook gelijk en is het stylen van de tweede pagina gelukt.
 
 
 
@@ -98,7 +105,7 @@ De HTML pagina schrijven ging erg goed, de css toepassen ging voor een groot dee
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik vond de meeting erg fijn en had er veel aan, veel kleine dingen waar ik tegen aan liep, snapte ik na deze te vragen in de meeting wel.
 
 
 
