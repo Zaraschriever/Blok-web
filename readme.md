@@ -63,8 +63,8 @@ Het responsive maken van mijn website vind ik wel erg lastig, hierdoor verschoof
 
 **Screenshot(s):**
 
-<img src="/images/eersteversie.png" width="375px" alt="homepagina">
-
+<img src="/images/tweedeversie.png" width="375px" alt="homepagina">
+<img src="/images/tweedeversie2.png" width="375px" alt="homepagina">
 
 ### Agenda voor meeting
 
